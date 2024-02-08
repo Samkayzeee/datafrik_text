@@ -1,9 +1,15 @@
 const Navbar = () => {
     return ( 
         <>
-            <div>
-                This is the Navbar
-            </div>
+            <nav className="flex justify-between">
+                <div className="logo">
+                    JustAnotherUIKit
+                </div>
+
+                <div className="links">
+                    These are the links
+                </div>
+            </nav>
         </>
      );
 }
