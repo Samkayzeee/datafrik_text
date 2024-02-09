@@ -35,7 +35,7 @@ const Home = () => {
             <div className="home">
             <div className="content mt-60 py-10 mb-100">
                 <h2>
-                  It doesn't matter what <span>JS FRAMEWORK</span> you work with.
+                  It doesn&lsquo;t matter what <span>JS FRAMEWORK</span> you work with.
                 </h2>
                 <h5 className='my-2'>Our boilerplates works with <span>out-of-the-box</span>.</h5>
 
