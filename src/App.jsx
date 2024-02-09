@@ -1,5 +1,6 @@
 import './App.css';
-import DefaultLayout from './layouts/Defaultlayout';
+import Footer from './components/footer/Footer';
+import Navbar from './components/navbar/Navbar';
 import About from './pages/about/About';
 import Contact from './pages/contact/Contact';
 import Home from './pages/home/Home';
@@ -8,7 +9,7 @@ function App() {
 
   return (
     <>
-      <DefaultLayout>
+    <Navbar />
           <div id="#">
             <Home />
           </div>
@@ -20,7 +21,7 @@ function App() {
           <div id="contact">
             <Contact />
           </div>
-      </DefaultLayout>
+    <Footer />
     </>
   )
 }
