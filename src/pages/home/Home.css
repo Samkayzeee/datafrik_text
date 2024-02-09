@@ -1,0 +1,88 @@
+.home .content{
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.home .content h2{
+    font-size: 50px;
+    font-weight: 700;
+    /* line-height: 60.51px; */
+}
+.home .content h2 span{
+   color: rgba(255, 255, 0, 1);
+}
+.home .content h5{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.05px;
+}
+.home .content h5 span{
+    color:rgba(145, 210, 247, 1);
+}
+.home .content .button button{
+    border: 1px solid rgba(255, 255, 0, 1);
+    border-radius: 3px;
+    background: rgba(255, 255, 0, 1);
+    color: black;
+    font-weight: 700;
+    transition: background 0.3s ease-in-out;
+}
+.home .content .button button:hover{
+    border: solid 1px rgba(255, 255, 0, 1);
+    background: transparent;
+    color: rgba(255, 255, 0, 1);
+}
+.home .content .button a{
+    border-radius: 3px;
+    border: solid 1px rgba(255, 255, 0, 1);
+    color: rgba(255, 255, 0, 1);
+    transition: background 0.3s ease-in-out;
+}
+.home .content .button a:hover{
+    background: rgba(255, 255, 0, 1);
+    color: black;
+    font-weight: 700;
+}
+.home .content .button a i{
+    transform: translateY(2px);
+}
+
+/* support and backed styles */
+
+
+.home .support{
+    text-align: center;
+}
+.home .support h2:first-child{
+    font-size: 16px;
+    line-height: 19.36px;
+    font-weight: 700;
+}
+.home .support .gridded{
+    /* border: solid 2px red; */
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.home .support .gridded div{
+    width: 199px;
+    background: rgba(217, 217, 217, 1);
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+    /* border: solid red 1px; */
+    text-align: center;
+}
+.home .support .h2{ 
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.73px;
+}
+.home .support p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.home .support p span{
+    color: rgba(255, 255, 0, 1);
+}

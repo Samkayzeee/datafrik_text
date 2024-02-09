@@ -12,3 +12,8 @@
     margin: 0;
     font-family: 'Inter', sans-serif;
 }
+
+body{
+    background: black;
+    color: white;
+}

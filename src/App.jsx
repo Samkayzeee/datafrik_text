@@ -1,12 +1,20 @@
 import './App.css';
 import DefaultLayout from './layouts/Defaultlayout';
+import About from './pages/about/About';
+import Home from './pages/home/Home';
 
 function App() {
 
   return (
     <>
       <DefaultLayout>
-          This is the Interview project
+          <div id="#">
+            <Home />
+          </div>
+
+          <div id='#about'>
+            <About />
+          </div>
       </DefaultLayout>
     </>
   )

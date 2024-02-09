@@ -1,0 +1,19 @@
+.navbar{
+    padding: 3% 8%;
+    /* background: black;s */
+    color: white;
+}
+.navbar .logo{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+}
+.navbar .links a{
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 19.36px;
+    transition: font-weight 0.3s ease-in-out;
+}
+.navbar .links a:hover{
+    font-weight: 700;
+}
