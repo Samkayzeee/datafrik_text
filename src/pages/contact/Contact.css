@@ -1,0 +1,43 @@
+.contact{
+    padding: 0 8%;
+}
+
+.contact h2{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+}
+.contact .form-div form h5{
+    font-size: 16px;
+    line-height: 19.36px;
+    font-weight: 700;
+    text-align: center;
+}
+.contact .form-div form ul li{
+    list-style-type: none;
+    display: block;
+    margin: 20px 0;
+}
+.contact .form-div form ul .half{
+    display: flex;
+    justify-content: space-between;
+}
+.contact .form-div form ul .half input{
+    width: 48%;
+}
+.contact .form-div form ul li input, .contact .form-div form ul li textarea{
+    width: 100%;
+    padding: 2% 10px;
+    font-size: 16px;
+}
+
+.contact .form-div form button{
+    background-color: rgba(145, 210, 247, 1);
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    display: block;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    margin: auto;
+}

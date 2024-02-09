@@ -34,7 +34,7 @@ const About = () => {
                 Facilisi etiam dignissim diam quis enim. Consectetur purus ut faucibus pulvinar elementum integer enim neque volutpat. 
                 Pellentesque massa placerat duis ultricies lacus. Donec massa sapien faucibus et molestie. Ac turpis egestas sed tempus urna et pharetra. 
                 At lectus urna duis convallis convallis tellus. Egestas diam in arcu cursus euismod quis viverra. 
-                Malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel
+                Malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel.
                 </p>
             </div>
         </>
